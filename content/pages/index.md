@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elements:
       - delayBefore: 0
-        text: 'This is just for '
+        text: This is just for Elad
         lineBreak: false
         type: TypistTextElement
     type: TypistSection
