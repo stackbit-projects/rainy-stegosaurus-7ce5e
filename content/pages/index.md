@@ -11,7 +11,7 @@ sections:
         count: 13
         type: TypistBackspaceElement
       - delayBefore: 0
-        text: 'This is a text. '
+        text: for us both
         lineBreak: false
         type: TypistTextElement
     type: TypistSection
