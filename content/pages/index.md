@@ -7,7 +7,7 @@ sections:
         text: This is just for Elad
         lineBreak: false
         type: TypistTextElement
-      - delayBefore: 0
+      - delayBefore: 1000
         count: 13
         type: TypistBackspaceElement
     type: TypistSection
