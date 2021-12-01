@@ -10,6 +10,10 @@ sections:
       - delayBefore: 1000
         count: 13
         type: TypistBackspaceElement
+      - delayBefore: 0
+        text: 'This is a text. '
+        lineBreak: false
+        type: TypistTextElement
     type: TypistSection
   - type: HeroSection
     elementId: homepage-hero-1
