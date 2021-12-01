@@ -8,7 +8,7 @@ sections:
         lineBreak: false
         type: TypistTextElement
       - delayBefore: 0
-        count: 1
+        count: 10
         type: TypistBackspaceElement
     type: TypistSection
   - type: HeroSection
